@@ -2,7 +2,7 @@
 
 ### Transforming Data into Actionable Insights 🌐
 
-![InsightFlow Pro Logo](https://github.com/SohaibAamir28/insight-flow-pro/sohaib/logo.PNG)  <!-- Replace with a link to your logo image if available -->
+![InsightFlow Pro Logo](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/sohaib/logo.PNG)
 
 ## Project Overview
 
@@ -47,13 +47,13 @@
 
 ## PDF Documentation
 
-[Project Presentation PDF](https://github.com/SohaibAamir28/insight-flow-pro/sohaib/InsightFlow-Pro.pdf)  
+[Project Presentation PDF](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/sohaib/InsightFlow-Pro.pdf)  
 
 ## Video Demo
 
 Watch the video demo on YouTube:
 
-[![InsightFlow Pro Demo](https://youtube.com/playlist?list=PLu-CCIM-WT1SPTxNWo5B_NxtfFZ5mblRL&si=afYDnTtC1gh6FHzS)](https://youtube.com/playlist?list=PLu-CCIM-WT1SPTxNWo5B_NxtfFZ5mblRL&si=afYDnTtC1gh6FHzS)  <!-- Replace 'your-video-id' with the actual YouTube video ID -->
+[![InsightFlow Pro Demo](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/sohaib/logo.PNG)](https://youtube.com/playlist?list=PLu-CCIM-WT1SPTxNWo5B_NxtfFZ5mblRL&si=afYDnTtC1gh6FHzS)  <!-- Replace 'your-video-id' with the actual YouTube video ID -->
 
 ## Get Started
 
