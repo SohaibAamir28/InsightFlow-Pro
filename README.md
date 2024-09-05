@@ -2,6 +2,8 @@
 
 ### Transforming Data into Actionable Insights 🌐
 
+https://main.d22l0oruq9u8uj.amplifyapp.com/
+
 ![InsightFlow Pro Logo](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/sohaib/logo.PNG)
 ![InsightFlow Pro Logo](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/outputs/5.PNG)
 ![InsightFlow Pro Logo](https://github.com/SohaibAamir28/insight-flow-pro/blob/main/outputs/6.PNG)
